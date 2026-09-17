@@ -41,7 +41,6 @@ PrePresent follows a structured 4-step workflow to prepare you for your presenta
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Sharawil/prepresent.git
-    cd prepresent
     ```
 
 2.  **Install dependencies:**
@@ -63,6 +62,3 @@ PrePresent follows a structured 4-step workflow to prepare you for your presenta
 5.  **Open the app:**
     Visit [http://localhost:3000](http://localhost:3000) (or the port shown in your terminal) to start preparing!
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
